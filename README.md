@@ -3,6 +3,7 @@
 This repository contains the functional specification for the Campaign Management System:
 
 - [`FunctionalSpec_CampaignManagementSystem.md`](./FunctionalSpec_CampaignManagementSystem.md)
+- [`CampaignManagementSystem_Architecture.md`](./CampaignManagementSystem_Architecture.md)
 
 ## Architecture Summary
 
